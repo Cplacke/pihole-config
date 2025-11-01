@@ -1,10 +1,9 @@
 # pihole-config
 My repo to store a backup of my custom DNS blocking configuration for my local area network
-<img src="https://pi-hole.github.io/graphics/Vortex/Vortex_with_Wordmark.svg" style="width: 150px; display: block; margin: auto;"/>
+<img src="https://pi-hole.github.io/graphics/Vortex/Vortex_with_Wordmark.svg" style="width: 150px; max-width: 100%; display: block; margin: auto;"/>
 
-## Documentation and other info for Pi-hole can be found 
+### Pi-hole Links
+
 https://docs.pi-hole.net/
 
-
-## Local Admin Link
 http://pi.hole/admin/groups/domains
