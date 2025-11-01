@@ -7,4 +7,5 @@ My repo to store a backup of my custom DNS blocking configuration for my local a
 ### Pi-hole Links
 
 https://docs.pi-hole.net/
+
 http://pi.hole/admin/groups/domains
