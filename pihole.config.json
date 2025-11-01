@@ -1,0 +1,243 @@
+{
+    "domains": [
+        {
+            "domain": "mt.ssai.peacocktv.com",
+            "unicode": "mt.ssai.peacocktv.com",
+            "type": "deny",
+            "kind": "exact",
+            "comment": "github peacock ad-block",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 1,
+            "date_added": 1761598108,
+            "date_modified": 1761941048
+        },
+        {
+            "domain": "g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com",
+            "unicode": "g[^.]+-vod-us-cmaf-prd-[^.]+.cdn.peacocktv.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": "github peacock ad-block",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 2,
+            "date_added": 1761598210,
+            "date_modified": 1761941054
+        },
+        {
+            "domain": "g[^.]+-vod-us-cmaf-prd-mc.cdn.peacocktv.com",
+            "unicode": "g[^.]+-vod-us-cmaf-prd-mc.cdn.peacocktv.com",
+            "type": "allow",
+            "kind": "regex",
+            "comment": "github peacock ad-block -WL",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 3,
+            "date_added": 1761598601,
+            "date_modified": 1761941058
+        },
+        {
+            "domain": "doubleverify.com",
+            "unicode": "doubleverify.com",
+            "type": "deny",
+            "kind": "exact",
+            "comment": "Fuck ai",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 6,
+            "date_added": 1761599467,
+            "date_modified": 1761941063
+        },
+        {
+            "domain": "g[^.]+-sf-us-cmaf-prd-ak[^.]*.cdn.peacocktv.com",
+            "unicode": "g[^.]+-sf-us-cmaf-prd-ak[^.]*.cdn.peacocktv.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 11,
+            "date_added": 1761610653,
+            "date_modified": 1761941060
+        },
+        {
+            "domain": "g[^.]+-sle-us-cmaf-prd-fy[^.]*.cdn.peacocktv.com",
+            "unicode": "g[^.]+-sle-us-cmaf-prd-fy[^.]*.cdn.peacocktv.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": "peacock adblock",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 12,
+            "date_added": 1761616410,
+            "date_modified": 1761941065
+        },
+        {
+            "domain": "[tk].pluto.tv",
+            "unicode": "[tk].pluto.tv",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 20,
+            "date_added": 1761746983,
+            "date_modified": 1761746983
+        },
+        {
+            "domain": "surface-x-orch.prime-video.amazon.dev",
+            "unicode": "surface-x-orch.prime-video.amazon.dev",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 31,
+            "date_added": 1761919012,
+            "date_modified": 1761941070
+        },
+        {
+            "domain": "vod-dash-pv.amazon.fastly-edge.com",
+            "unicode": "vod-dash-pv.amazon.fastly-edge.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": "Added from Query Log",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 36,
+            "date_added": 1761919311,
+            "date_modified": 1761941076
+        },
+        {
+            "domain": "regolith.prime-video.amazon.dev",
+            "unicode": "regolith.prime-video.amazon.dev",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 50,
+            "date_added": 1761921759,
+            "date_modified": 1761941072
+        },
+        {
+            "domain": "images-fe.ssl-images-amazon.com",
+            "unicode": "images-fe.ssl-images-amazon.com",
+            "type": "allow",
+            "kind": "exact",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 51,
+            "date_added": 1761922126,
+            "date_modified": 1761941084
+        },
+        {
+            "domain": "m.media-amazon.com",
+            "unicode": "m.media-amazon.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": "Added from Query Log",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 85,
+            "date_added": 1761929477,
+            "date_modified": 1761930044
+        },
+        {
+            "domain": "bob-dispatch-prod-na.amazon.com",
+            "unicode": "bob-dispatch-prod-na.amazon.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": "Added from Query Log",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 86,
+            "date_added": 1761929482,
+            "date_modified": 1761930043
+        },
+        {
+            "domain": "threeplr-[^.]+.na.api.amazonvideo.com",
+            "unicode": "threeplr-[^.]+.na.api.amazonvideo.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 90,
+            "date_added": 1761939431,
+            "date_modified": 1761941086
+        },
+        {
+            "domain": ".+sonar.prime-video.amazon.dev",
+            "unicode": ".+sonar.prime-video.amazon.dev",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 93,
+            "date_added": 1761939602,
+            "date_modified": 1761941080
+        },
+        {
+            "domain": "msh.amazon.com",
+            "unicode": "msh.amazon.com",
+            "type": "deny",
+            "kind": "exact",
+            "comment": "Added from Query Log",
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 110,
+            "date_added": 1762006717,
+            "date_modified": 1762006717
+        },
+        {
+            "domain": "appsync-realtime-api.[^.]+.amazonaws.com",
+            "unicode": "appsync-realtime-api.[^.]+.amazonaws.com",
+            "type": "deny",
+            "kind": "regex",
+            "comment": null,
+            "groups": [
+                0
+            ],
+            "enabled": true,
+            "id": 111,
+            "date_added": 1762006770,
+            "date_modified": 1762006770
+        }
+    ],
+    "took": 0.0012621879577636719
+}
